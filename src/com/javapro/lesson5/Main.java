@@ -3,7 +3,7 @@ package com.javapro.lesson5;
 import com.javapro.lesson5.model.Circle;
 import com.javapro.lesson5.model.Square;
 import com.javapro.lesson5.model.Triangle;
-import com.javapro.lesson5.service.Figureanable;
+import com.javapro.lesson5.api.Figureanable;
 
 public class Main {
 

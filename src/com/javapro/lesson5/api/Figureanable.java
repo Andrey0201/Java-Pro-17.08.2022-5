@@ -1,4 +1,4 @@
-package com.javapro.lesson5.service;
+package com.javapro.lesson5.api;
 
 public interface Figureanable {
 

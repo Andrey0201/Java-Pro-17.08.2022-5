@@ -1,6 +1,6 @@
 package com.javapro.lesson5.model;
 
-import com.javapro.lesson5.service.Figureanable;
+import com.javapro.lesson5.api.Figureanable;
 
 public class Circle implements Figureanable {
 
